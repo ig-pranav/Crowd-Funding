@@ -1,4 +1,4 @@
 # Crowd-Funding
-Connect to metamask wallet /n
-npm install
-npm start
+# Connect to metamask wallet 
+# npm install
+# npm start
